@@ -1,4 +1,4 @@
-## 【AOP系列】爱之初体验
+## 【AOP系列】爱之初体验(一)
 
 
 
@@ -30,7 +30,7 @@
 
 **哦，看了一大堆，到底想说啥？**
 
-![举个例子](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583562980060&di=8418565d9f0b8fd54234717f89b12c90&imgtype=0&src=http%3A%2F%2Fimg.bqatj.com%2Fimg%2F2a57f8a2e3b8ca32.jpg)
+![举个例子](https://imgconvert.csdnimg.cn/aHR0cHM6Ly90aW1nc2EuYmFpZHUuY29tL3RpbWc_aW1hZ2UmcXVhbGl0eT04MCZzaXplPWI5OTk5XzEwMDAwJnNlYz0xNTgzNTYyOTgwMDYwJmRpPTg0MTg1NjVkOWYwYjhmZDU0MjM0NzE3Zjg5YjEyYzkwJmltZ3R5cGU9MCZzcmM9aHR0cCUzQSUyRiUyRmltZy5icWF0ai5jb20lMkZpbWclMkYyYTU3ZjhhMmUzYjhjYTMyLmpwZw?x-oss-process=image/format,png)
 
 
 
@@ -117,7 +117,7 @@ public class Main {
 
 
 
-![1583555441430](img\aop1.png)
+![1583555441430](img/aop1.png)
 
 **鹅 美 净~	(amazeing)**
 
@@ -130,9 +130,6 @@ public class Main {
 ### AOP具体运用在什么地方呢？
 
 日志记录，性能统计，安全控制，事务处理，异常处理等很多地方都会用到。
-
-哎，又开始概念上的东西了，具体怎么运用等我后面再整理文章吧
-
 
 
 ```json

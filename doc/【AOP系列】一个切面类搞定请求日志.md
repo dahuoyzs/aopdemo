@@ -18,7 +18,7 @@
 
 效果
 
-![1583560304056](D:\desktop\文本\aop系列博客\log2.png)
+![1583560304056](img/log2.png)
 
 
 
@@ -122,17 +122,17 @@ public class HttpLogAspect {
 
 写个测试接口
 
-![1583560138106](D:\desktop\文本\aop系列博客\sleepController.png)
+![1583560138106](img/sleepController.png)
 
 
 
-![1583560304056](D:\desktop\文本\aop系列博客\log2.png)
+![1583560304056](img/log2.png)
 
 
 
 数据库记录
 
-![1583564871288](D:\desktop\文本\aop系列博客\mysql_log.png)
+![1583564871288](img/mysql_log.png)
 
 
 

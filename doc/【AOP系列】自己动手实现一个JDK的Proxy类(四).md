@@ -1,4 +1,4 @@
-## 【AOP系列】自己动手实现一个JDK的Proxy类
+## 【AOP系列】自己动手实现一个JDK的Proxy类(四)
 
 
 
@@ -350,7 +350,7 @@ JDK是直接根据class文件的格式直接构造class类型的byte[],
 
 ### 运行结果
 
-![1584895172847](C:\Users\bigfire\AppData\Roaming\Typora\typora-user-images\1584895172847.png)
+![1584895172847](img/1584895172847.png)
 
 
 
@@ -388,7 +388,7 @@ String relation = (clazz.isInterface() ? " implements " : " extends ") + interfa
 
 ### 尝试代理Integer类。
 
-![1584896002542](C:\Users\bigfire\AppData\Roaming\Typora\typora-user-images\1584896002542.png)
+![1584896002542](img/1584896002542.png)
 
 
 
@@ -418,7 +418,7 @@ String relation = clazz.isInterface() ? " implements " + interfaceName : " ";
 
 再次运行
 
-![1584897101356](C:\Users\bigfire\AppData\Roaming\Typora\typora-user-images\1584897101356.png)
+![1584897101356](img/1584897101356.png)
 
 现在清楚了，虽然生成了一模一样的类，但是现在就不算代理了，因为两个类已经没啥联系了，所以生成的Proxy类当然不能转换成Integer了
 

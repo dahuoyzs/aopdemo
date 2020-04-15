@@ -1,4 +1,4 @@
-## 【AOP系列】静态代理和动态代理
+## 【AOP系列】静态代理和动态代理(二)
 
 
 
@@ -14,7 +14,7 @@
 
 他们骑着电动车穿梭在各个小区之间，带人看房。这里举个例子，小明要租一个房子，但由于一些原因，自己不呢个获得很多有效的房屋信息。所以只好找到房屋中介，让他们带着自己看房子。
 
-![代理](D:\desktop\文本\aop系列博客\img\代理.png)
+![代理](img/代理.png)
 
 其中这里面的房屋中介，差不多就有点代理的意思
 
@@ -63,7 +63,7 @@ class Company{
 
 运行效果
 
-![1584716566512](D:\desktop\文本\aop系列博客\img\static_proxy.png)
+![1584716566512](img/static_proxy.png)
 
 
 
@@ -133,7 +133,7 @@ public class JDKProxy {
 
 #### 运行效果
 
-![1585408660944](D:\desktop\文本\aop系列博客\img\jdkproxy.png)
+![1585408660944](img/jdkproxy.png)
 
 #### 总结：
 
@@ -216,7 +216,7 @@ public class CglibProxy{
 
 运行效果
 
-![1585409151640](D:\desktop\文本\aop系列博客\img\cglibProxy.png)
+![1585409151640](img/cglibProxy.png)
 
 
 
